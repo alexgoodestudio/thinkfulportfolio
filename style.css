@@ -1,0 +1,54 @@
+img{
+    height: 250px;
+    margin-top: 30px;
+    transition: all .2s ease-in-out;
+}
+img:hover {
+   transform: scale(1.1); 
+  }
+
+body{
+    background:#EDE8E2;
+    padding:10px 40px;
+}
+
+h1{
+    color: #2F7A7E;
+}
+p{
+    color: #CF5042;
+    text-align: justify;
+    margin-right: 60%;
+    
+}
+h2{
+    color: #966593;
+    font-style: italic;
+}
+ul{
+    color: #2F7A7E;
+
+
+}
+a {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+  }
+  
+  a:link    {
+    color: #966593; 
+    }
+  a:visited {
+    color: #CF5042;
+    }
+
+  a:hover   {
+    color: #2F7A7E;
+  
+    }
+  a:active  { 
+    color: #ff8c00;  
+    }
+    footer{
+      margin:10px;
+    }
